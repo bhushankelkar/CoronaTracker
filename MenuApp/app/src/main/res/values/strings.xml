@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">COVID19 Tracker</string>
+    <string name="messageWithLink"><a href="https://www.mha.gov.in/media/whats-new">Tap here to open Link</a></string>
+    <string name="messageWithLink1"><a href="https://twitter.com/narendramodi">Tap here to open Link</a></string>
+    <string name="messageWithLink2"><a href="https://www.mygov.in/corona-data/covid19-statewise-status/">Tap here to open Link</a></string>
+    <string name="messageWithLink3"><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">Tap here to open Link</a></string>
+
+</resources>
